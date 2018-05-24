@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Player>
+  <Image>
+    <Path>Player/Jeanne</Path>
+    <Effects>SpriteSheetEffect</Effects>
+  </Image>
+  <MoveSpeed>300</MoveSpeed>
+</Player>

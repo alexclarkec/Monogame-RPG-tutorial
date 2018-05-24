@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SplashScreen>
+  <Image>
+    <Path>SplashScreen/SplashScreen</Path>
+    <IsActive>false</IsActive>
+    <Position>
+      <X>-100</X>
+      <Y>-75</Y>
+    </Position>
+    <Effects>FadeEffect</Effects>
+    <FadeEffect>
+      <FadeSpeed>10</FadeSpeed>
+    </FadeEffect>
+  </Image>
+</SplashScreen>

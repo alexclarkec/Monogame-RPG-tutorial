@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Map>
+  <TileDimensions>
+    <X>32</X>
+    <Y>32</Y>
+  </TileDimensions>
+
+  <Layer>
+    <Image>
+      <Path>Maps/Tileset</Path>
+    </Image>
+    <TileMap_>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+      <Row>[0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0][0:0]</Row>
+    </TileMap_>
+  </Layer>
+
+  <Layer>
+    <Image>
+      <Path>Maps/Tileset</Path>
+    </Image>
+    <SolidTiles>[5:2][6:2]</SolidTiles>
+    <OverlayTiles>[5:4]</OverlayTiles>
+    <TileMap_>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][5:2][6:2][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][5:4][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+      <Row>[x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x][x:x]</Row>
+    </TileMap_>
+  </Layer>
+
+</Map>
